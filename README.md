@@ -1,5 +1,4 @@
-# dpc197
-reddit.com/r/dailyprogramming - Challenge #197 - Easy
+## reddit.com/r/dailyprogrammer - Challenge #197 - Easy
 
 http://www.reddit.com/r/dailyprogrammer/comments/2s7ezp/20150112_challenge_197_easy_isbn_validator/cns9v7c
 
